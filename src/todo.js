@@ -40,6 +40,10 @@ class Todo {
             todos.findIndex((todo) => todo.id === this.id),
             1
         );
+        // Reset todo ids
+        todos.forEach((todo, index) => {
+            todo.id = index;
+        });
         projects.update();
     }
 }
