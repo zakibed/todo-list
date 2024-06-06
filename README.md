@@ -1,6 +1,6 @@
 # Todo List
 
-A todo list browser application inspired by the [Todoist](https://todoist.com/app/) interface.
+A todo list browser application inspired by the [Todoist](https://todoist.com/) interface.
 
 Live demo here: https://zakibed.github.io/todo-list/
 
