@@ -2,7 +2,7 @@
 
 A todo list browser application inspired by the [Todoist](https://todoist.com/app/) interface.
 
-Live demo here: https://ikaz1.github.io/todo-list/
+Live demo here: https://zakibed.github.io/todo-list/
 
 ## Features
 
@@ -17,5 +17,3 @@ Live demo here: https://ikaz1.github.io/todo-list/
 -   HTML, CSS, and JS
 -   [date-fns](https://github.com/date-fns/date-fns) for date handling and manipulation
 -   [webpack](https://github.com/webpack/webpack) for module bundling
-
-Created for [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)
